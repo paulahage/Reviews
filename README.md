@@ -15,7 +15,7 @@ The project was developed during the course with the main objective of teaching 
 
 🤓 Learning:
 
-- Hooks: useState()
+- Hooks: useState(), useEffect()
 <br/>
 
 ### Running the project:
