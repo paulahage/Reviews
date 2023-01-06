@@ -2,6 +2,7 @@
 
 This is an exercise from John Smilga's course - React Tutorial and Projects at ÛDEMY.<br/>
 The project was developed during the course with the main objective of teaching how to: 
+
 - manipulate state to display content
 
 <br/>
@@ -20,8 +21,12 @@ The project was developed during the course with the main objective of teaching 
 
 ### Running the project:
 
-- Go to **website** directory `cd website`
-- Run `npm start`
+```
+$ git clone git@github.com:paulahage/Reviews.git
+$ cd website
+$ npm install
+$ npm start
+```
 - You can check the project at http://localhost:3000/
 
 <br/>
